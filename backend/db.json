@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Notebook Acer",
+      "price": 2999.99,
+      "id": 1
+    },
+    {
+      "name": "Caneta BIC",
+      "price": 1.99,
+      "id": 2
+    }
+  ]
+}
